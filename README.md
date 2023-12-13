@@ -5,7 +5,7 @@
 ##
 
 <h4>What is Ryou-Bot ?</h4>
-<p>Ryou Bot uses the initial base of Sazumi-Bot, this private bot is just for appearance </p>
+<p>Ryou Bot Private Script Created by Michio and Not for Sale</p>
 
 ##
 <h>**config.js**</h2>
