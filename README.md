@@ -5,7 +5,7 @@
 ##
 
 <h4>What is Ryou-Bot ?</h4>
-<p>Ryou Bot uses the initial base of Suzumi-Bot, this private bot is just for appearance </p>
+<p>Ryou Bot uses the initial base of Sazumi-Bot, this private bot is just for appearance </p>
 
 ##
 <h>**config.js**</h2>
