@@ -25,17 +25,17 @@ global.web = 'https://chat.whatsapp.com/I057peOL7sK7v1jqcTEXoZ';
 global.instagram = 'https://instagram.com/Dwi_skizo';
 
 global.lolkey = 'GataDios';
-global.sazumiviki_title = 'Ryou - Bot Whatsapp'
-global.sazumiviki_thumb = 'https://telegra.ph/file/d5af2e5f90334885674b5.jpg'
-global.sazumiviki_source = 'https://instagram.com/Dwi_skizo'
-global.sazumiviki_profile = 'https://i.pinimg.com/originals/ee/83/b3/ee83b364c152f474b6e85e8b4737462f.jpg'
+global.title = 'Ryou - Bot Whatsapp'
+global.thumb = 'https://telegra.ph/file/d5af2e5f90334885674b5.jpg'
+global.source = 'https://instagram.com/Dwi_skizo'
+global.profile = 'https://i.pinimg.com/originals/ee/83/b3/ee83b364c152f474b6e85e8b4737462f.jpg'
 global.sig = 'https://instagram.com/Ryou-Yamada'
 global.sazumi_version = '©Ryou-Yamada v1.0.1 (Beta)'
 global.footer = '≈Ryou-Bot Created By Michio'
 global.wm = 'Ryou - Bot Whatsapp';
 global.watermark = wm;
 global.wait = 'Wait a moment..';
-global.sazumiviki_imgur = 'Client-ID 5f98ee8de4fa3c5';
+global.imgur = 'Client-ID 5f98ee8de4fa3c5';
 global.rose = 'YOUR_KEY_HERE';
 global.xzn = 'michio';
 global.sourceUrl = 'https://Instagram.com/Dwi_skizo';
@@ -47,13 +47,11 @@ global.author = 'Ryou-Bot\n';
 global.APIs = {
   lolhuman: 'https://api.lolhuman.xyz',
   rose: 'https://api.itsrose.life',
-  skizo: 'https://xzn.wtf/',
-  sazumiviki: 'https://api.sazumiviki.me'
+  skizo: 'https://xzn.wtf/'
 };
 
 global.APIKeys = {
-  'https://api.sazumiviki.me': 'sazumiviki',
-  'https://xzn.wtf/': 'sazumiviki',
+  'https://xzn.wtf/': 'YOUR_KEY',
   'https://api.itsrose.life': 'YOUR_KEY_HERE',
   'https://api.lolhuman.xyz': 'GataDios',
 };
